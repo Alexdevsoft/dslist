@@ -42,7 +42,7 @@
 
 ## Perfis de Projeto
 
-### Perfil de desenvolvimento de testes
+### Perfil de desenvolvimento de testes do projeto
 - `test`
 - Banco de dados: H2
 
