@@ -1,4 +1,4 @@
-# Projeto Lista de Games Back-End
+# Projeto Spring Lista de Games Back-End
 
 ## Linguagem
 - Java Spring Boot
